@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello Friend!!!</title>
+    
+    
+    
+    <link>/</link>
+    <description>Recent content on Hello Friend!!!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 14 Jun 2023 18:08:22 +0200</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Initial_post</title>
+      <link>/posts/initial_post/</link>
+      <pubDate>Wed, 14 Jun 2023 18:08:22 +0200</pubDate>
+      
+      <guid>/posts/initial_post/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          This is the initial post on this blog, just to test how it works:)
+x+y = xy 
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
